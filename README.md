@@ -1,3 +1,2 @@
-# new project
-This project was from local system.
-created by anil
+# New Project
+This project was created by Anil
